@@ -1,0 +1,12 @@
+plan untuk folder ini
+
+1. membuat database(done)
+2. membuat routing (done)
+3. membuat model
+    a.model barang (done)
+    b. model ruangan
+    c. model peminjaman
+4. membuat view dari masing masing model
+5. membuat controllers dari masing masing model
+6. membuat view dashboard
+7. membuat controllers dasboard
